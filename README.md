@@ -5,6 +5,8 @@
    The goal is to detect people using Deep Learning and find the distance between people to check
    whether a norm social distance of 6feet or 1.8m is maintained by people.
    
+![Social Distancing](Images/peaky_blinders.png)
+   
 ## Tool and Libraries
 
 * Python
