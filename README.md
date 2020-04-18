@@ -21,4 +21,4 @@ Step 5: Find the distance between, the center point of one person to another per
 
 ## Result
 
-![Social Distance](social_distance.png)
+![Social Distance](Images/image_box2.png)
