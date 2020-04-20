@@ -15,11 +15,11 @@
 
 ## Description
 
->Step 1: Find the number of people in the frame/Image.
->Step 2: Creating Bounding Box over the people identified using YOLO.
->Step 3: A width threshold is set for object among which the distance is measured i.e. the width of the people. I am setting width as 27inch or 0.70 meter. Try other values if required.
->Step 4: Mapping the pixels to metric (meter or inches).
->Step 5: Find the distance between, the center point of one person to another person in meters.
+* Step 1: Find the number of people in the frame/Image.
+* Step 2: Creating Bounding Box over the people identified using YOLO.
+* Step 3: A width threshold is set for object among which the distance is measured i.e. the width of the people. I am setting width as 27inch or 0.70 meter. Try other values if required.
+* Step 4: Mapping the pixels to metric (meter or inches).
+* Step 5: Find the distance between, the center point of one person to another person in meters.
 
 ## Result
 
